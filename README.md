@@ -16,3 +16,7 @@ Predict it with test folder in Kaggle and save in .csv format
 1. CNN
 2. ResNet
 3. Transfer Learning
+
+
+AI Defect-Classification for ResNet50
+  [AI Defect-Classification for ResNet50](https://github.com/shou0228/Steel-Strip-Surface-Defect-Classification/blob/main/ResNet50.ipynb)
