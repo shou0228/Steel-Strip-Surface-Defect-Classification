@@ -19,4 +19,4 @@ Predict it with test folder in Kaggle and save in .csv format
 
 
 AI Defect-Classification for ResNet50
-  [AI Defect-Classification for ResNet50](https://github.com/shou0228/Steel-Strip-Surface-Defect-Classification/blob/main/ResNet50.ipynb)
+[AI Defect-Classification for ResNet50 python 程式檔](https://github.com/shou0228/Steel-Strip-Surface-Defect-Classification/blob/main/ResNet50.ipynb)
