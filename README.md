@@ -11,3 +11,7 @@ Scratches（划痕）
 Predict it with test folder in Kaggle and save in .csv format
 <img width="673" alt="image" src="https://user-images.githubusercontent.com/68886395/206919357-b69156ab-e66b-4dbc-8849-e84628089233.png">
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/68886395/206919386-5fefffbe-3670-4ccf-98c3-41b72343a024.png">
+✒️程式使用模型：
+1. CNN
+2. ResNet
+3. Transfer Learning
